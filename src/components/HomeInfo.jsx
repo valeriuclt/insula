@@ -81,12 +81,12 @@ const renderContent ={
     btnText="vezi mai mult"
     />),
     3:(<InfoBox 
-    text=" I have multiple projects over the years. <br /> Curious ?"
+    text=" I have multiple projects over the years. R U Curious ?"
     link="/projects"
     btnText="vezi protofoliul"
     />),
     4:(<InfoBox 
-    text="  You need a project done or looking for a dev? <br/> I'm just a few keystrokes away"
+    text="  You need a project done or looking for a dev?  I'm just a few keystrokes away"
     link="/contact"
     btnText="Let's talk!"
     />),
